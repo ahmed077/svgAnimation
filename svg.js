@@ -39,3 +39,4 @@ function animate() {
         i = i + 1;
     }, time);
 }
+animate();
